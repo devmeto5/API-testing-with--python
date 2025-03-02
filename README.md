@@ -1,6 +1,6 @@
 # API Testing with Python
 
-This guide will help you create and run automated tests for an API using Python.
+This guide will help you create and run automated tests for an API using Python
 
 ## Step 1: Install Required Tools
 First, you will need Python and the `pip` package manager. Make sure the following tools are installed:
